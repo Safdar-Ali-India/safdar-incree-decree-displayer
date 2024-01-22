@@ -25,7 +25,7 @@ console.log("hii");
     <span></span>
     <span></span>
     <span></span>
-   INCREE
+   New Notification
 </div>
  
    </div>
